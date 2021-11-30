@@ -38,7 +38,7 @@
 
 /*
  *---------------------------------------------------------------
- * APPLICATION ENVIRONMENT 1232 
+ * APPLICATION ENVIRONMENT 
  *---------------------------------------------------------------
  *
  * You can load different configurations depending on your
